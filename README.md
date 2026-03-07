@@ -7,7 +7,6 @@
 🏆 **Runners-up** at **RoboSub 2023** in Los Angeles  
 🎓 Currently pursuing **Master's in Software Engineering**  
 💼 Open to full-time opportunities across Australia
-🌐 zkxenon.com
 
 ---
 
@@ -78,8 +77,8 @@
 ### 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zkwaitforitxenon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zkwaitforitxenon)
-[![Portfolio](https://img.shields.io/badge/Portfolio-zkxenon.dev-000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-url.com)
-[![Email](https://img.shields.io/badge/Email-hello@zkxenon.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@zkxenon.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zkxenon.dev-000?style=for-the-badge&logo=firefox&logoColor=white)](https://zkxenon.com/)
+[![Email](https://img.shields.io/badge/Email-hello@zkxenon.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zkxenon.2006@gmail.com)
 
 ---
 
